@@ -27,7 +27,7 @@ This project analyzes e-commerce sales data to uncover key insights, trends, and
 - Business Insights and Recommendations
 
 ## Tools and Technologies Used
-- **Python** (pandas, numpy, matplotlib, seaborn)
+- **Python** (pandas, numpy, matplotlib, seaborn, plotly)
 - **Jupyter Notebook** for data analysis
 - **PowerPoint** for presentation preparation
 
@@ -38,7 +38,7 @@ This project analyzes e-commerce sales data to uncover key insights, trends, and
    ```
 2. Install required libraries:
    ```bash
-   pip install pandas numpy matplotlib seaborn
+   pip install pandas numpy matplotlib seaborn plotly
    ```
 3. Open `E-Commerce_Project.ipynb` and run the code cells sequentially.
 
@@ -54,4 +54,5 @@ The project identifies key insights such as:
 
 ## Contact
 For questions or collaborations, feel free to reach out to **MD-PARWEZ97** on GitHub.
+
 
